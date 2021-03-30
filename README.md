@@ -4,8 +4,8 @@ Script is designed to sync (one-way)  membership between UW Groups and local sys
 
 ## Requirements
 
-Python 3.X
-Requests (https://docs.python-requests.org/en/master/)
+* Python 3.X
+* Requests (https://docs.python-requests.org/en/master/)
 
 ## Configuration
 
